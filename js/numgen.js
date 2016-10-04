@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML = Math.floor(Math.random() * 11); // returns a random number between 0 and 10
+    document.getElementById("demo").innerHTML = Math.floor(Math.random() * 11 * 2); // returns a random number between 0 and 10
 }
