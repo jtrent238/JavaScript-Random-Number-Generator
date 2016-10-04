@@ -1,2 +1,2 @@
-# JavaScript-Website-Logger
-Logs access times on a website.
+# JavaScript-Random-Number-Generator
+Generates a random number using [Javascript]().
